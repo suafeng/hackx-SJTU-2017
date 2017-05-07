@@ -1,0 +1,715 @@
+1:::
+2:::
+3:::
+wwww:
+TIME(ms): 177.139000
+show result elapsed time: 
+TIME(ms): 425.584000
+[0m[ INFO] [1494059005.220229346]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059005.220804971]: person[0m
+TIME(ms): 638.232000
+TIME(ms): 87.993000
+show result elapsed time: 
+TIME(ms): 8.165000
+TIME(ms): 105.196000
+TIME(ms): 48.661000
+show result elapsed time: 
+TIME(ms): 6.342000
+TIME(ms): 63.907000
+TIME(ms): 57.130000
+show result elapsed time: 
+TIME(ms): 6.124000
+TIME(ms): 73.533000
+TIME(ms): 79.564000
+show result elapsed time: 
+TIME(ms): 8.782000
+TIME(ms): 98.637000
+TIME(ms): 80.629000
+show result elapsed time: 
+TIME(ms): 7.323000
+TIME(ms): 99.084000
+TIME(ms): 75.591000
+show result elapsed time: 
+TIME(ms): 7.745000
+TIME(ms): 94.197000
+TIME(ms): 83.745000
+show result elapsed time: 
+TIME(ms): 7.305000
+TIME(ms): 102.008000
+TIME(ms): 70.248000
+show result elapsed time: 
+TIME(ms): 6.606000
+TIME(ms): 86.134000
+TIME(ms): 52.629000
+show result elapsed time: 
+TIME(ms): 6.452000
+TIME(ms): 67.675000
+TIME(ms): 53.110000
+show result elapsed time: 
+TIME(ms): 7.037000
+TIME(ms): 69.078000
+TIME(ms): 50.860000
+show result elapsed time: 
+TIME(ms): 6.275000
+TIME(ms): 65.145000
+TIME(ms): 53.566000
+show result elapsed time: 
+TIME(ms): 5.864000
+TIME(ms): 67.580000
+TIME(ms): 59.040000
+show result elapsed time: 
+TIME(ms): 7.019000
+TIME(ms): 79.087000
+TIME(ms): 50.761000
+show result elapsed time: 
+TIME(ms): 6.637000
+TIME(ms): 66.686000
+TIME(ms): 56.652000
+show result elapsed time: 
+TIME(ms): 7.609000
+TIME(ms): 75.694000
+TIME(ms): 42.736000
+show result elapsed time: 
+TIME(ms): 6.501000
+TIME(ms): 57.658000
+TIME(ms): 59.027000
+show result elapsed time: 
+TIME(ms): 5.998000
+TIME(ms): 78.119000
+TIME(ms): 56.271000
+show result elapsed time: 
+TIME(ms): 7.146000
+TIME(ms): 74.323000
+TIME(ms): 51.912000
+show result elapsed time: 
+TIME(ms): 7.135000
+TIME(ms): 67.783000
+TIME(ms): 46.639000
+show result elapsed time: 
+TIME(ms): 5.726000
+TIME(ms): 60.722000
+TIME(ms): 53.739000
+show result elapsed time: 
+TIME(ms): 8.104000
+TIME(ms): 78.662000
+TIME(ms): 53.815000
+show result elapsed time: 
+TIME(ms): 7.960000
+TIME(ms): 72.353000
+TIME(ms): 68.688000
+show result elapsed time: 
+TIME(ms): 7.756000
+TIME(ms): 86.543000
+TIME(ms): 69.999000
+show result elapsed time: 
+TIME(ms): 7.060000
+TIME(ms): 87.130000
+TIME(ms): 59.165000
+show result elapsed time: 
+TIME(ms): 6.680000
+TIME(ms): 75.237000
+TIME(ms): 62.506000
+show result elapsed time: 
+TIME(ms): 7.027000
+TIME(ms): 78.911000
+TIME(ms): 60.226000
+show result elapsed time: 
+TIME(ms): 6.526000
+TIME(ms): 76.559000
+TIME(ms): 70.657000
+show result elapsed time: 
+TIME(ms): 9.176000
+TIME(ms): 91.204000
+TIME(ms): 62.919000
+show result elapsed time: 
+TIME(ms): 8.448000
+TIME(ms): 83.964000
+TIME(ms): 72.444000
+show result elapsed time: 
+TIME(ms): 7.356000
+TIME(ms): 91.512000
+TIME(ms): 69.671000
+show result elapsed time: 
+TIME(ms): 7.797000
+TIME(ms): 89.070000
+TIME(ms): 60.238000
+show result elapsed time: 
+TIME(ms): 6.891000
+TIME(ms): 77.337000
+TIME(ms): 62.381000
+show result elapsed time: 
+TIME(ms): 8.215000
+TIME(ms): 81.331000
+TIME(ms): 62.870000
+show result elapsed time: 
+TIME(ms): 7.686000
+TIME(ms): 80.413000
+TIME(ms): 64.898000
+show result elapsed time: 
+TIME(ms): 7.433000
+TIME(ms): 82.388000
+TIME(ms): 81.044000
+show result elapsed time: 
+TIME(ms): 7.839000
+TIME(ms): 99.786000
+TIME(ms): 80.047000
+show result elapsed time: 
+TIME(ms): 8.550000
+TIME(ms): 99.278000
+TIME(ms): 50.663000
+show result elapsed time: 
+TIME(ms): 6.178000
+TIME(ms): 65.716000
+TIME(ms): 57.699000
+show result elapsed time: 
+TIME(ms): 8.233000
+TIME(ms): 76.268000
+TIME(ms): 73.739000
+show result elapsed time: 
+TIME(ms): 7.565000
+TIME(ms): 93.586000
+TIME(ms): 73.144000
+show result elapsed time: 
+TIME(ms): 6.800000
+TIME(ms): 91.339000
+TIME(ms): 70.211000
+show result elapsed time: 
+TIME(ms): 7.198000
+TIME(ms): 89.123000
+TIME(ms): 70.147000
+show result elapsed time: 
+TIME(ms): 6.659000
+[0m[ INFO] [1494059009.513331116]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059009.513679293]: cat[0m
+TIME(ms): 87.699000
+TIME(ms): 51.042000
+show result elapsed time: 
+TIME(ms): 7.368000
+TIME(ms): 67.461000
+TIME(ms): 59.734000
+show result elapsed time: 
+TIME(ms): 7.176000
+TIME(ms): 76.381000
+TIME(ms): 68.719000
+show result elapsed time: 
+TIME(ms): 9.125000
+TIME(ms): 89.747000
+TIME(ms): 61.097000
+show result elapsed time: 
+TIME(ms): 7.181000
+TIME(ms): 78.797000
+TIME(ms): 67.010000
+show result elapsed time: 
+TIME(ms): 8.040000
+TIME(ms): 86.216000
+TIME(ms): 51.614000
+show result elapsed time: 
+TIME(ms): 7.308000
+TIME(ms): 69.006000
+TIME(ms): 61.286000
+show result elapsed time: 
+TIME(ms): 6.365000
+TIME(ms): 76.993000
+TIME(ms): 68.557000
+show result elapsed time: 
+TIME(ms): 8.232000
+TIME(ms): 86.521000
+TIME(ms): 69.241000
+show result elapsed time: 
+TIME(ms): 7.711000
+TIME(ms): 86.211000
+TIME(ms): 66.796000
+show result elapsed time: 
+TIME(ms): 7.505000
+TIME(ms): 83.738000
+TIME(ms): 72.040000
+show result elapsed time: 
+TIME(ms): 6.681000
+TIME(ms): 89.223000
+TIME(ms): 71.335000
+show result elapsed time: 
+TIME(ms): 7.041000
+TIME(ms): 88.410000
+TIME(ms): 67.723000
+show result elapsed time: 
+TIME(ms): 7.264000
+TIME(ms): 85.938000
+TIME(ms): 88.276000
+show result elapsed time: 
+TIME(ms): 6.654000
+TIME(ms): 104.944000
+TIME(ms): 63.777000
+show result elapsed time: 
+TIME(ms): 5.964000
+TIME(ms): 79.126000
+TIME(ms): 59.149000
+show result elapsed time: 
+TIME(ms): 6.229000
+[0m[ INFO] [1494059011.101455698]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059011.101788875]: bird[0m
+TIME(ms): 76.628000
+TIME(ms): 65.023000
+show result elapsed time: 
+TIME(ms): 7.377000
+TIME(ms): 82.964000
+TIME(ms): 66.721000
+show result elapsed time: 
+TIME(ms): 6.953000
+TIME(ms): 86.626000
+TIME(ms): 66.239000
+show result elapsed time: 
+TIME(ms): 8.877000
+TIME(ms): 85.241000
+TIME(ms): 76.079000
+show result elapsed time: 
+TIME(ms): 6.232000
+TIME(ms): 93.480000
+TIME(ms): 71.376000
+show result elapsed time: 
+TIME(ms): 7.437000
+[0m[ INFO] [1494059011.617267156]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059011.617642625]: cat[0m
+TIME(ms): 91.502000
+TIME(ms): 61.403000
+show result elapsed time: 
+TIME(ms): 7.763000
+[0m[ INFO] [1494059011.705835542]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059011.706307677]: person[0m
+TIME(ms): 80.594000
+TIME(ms): 63.311000
+show result elapsed time: 
+TIME(ms): 7.684000
+TIME(ms): 81.683000
+TIME(ms): 63.515000
+show result elapsed time: 
+TIME(ms): 7.243000
+TIME(ms): 81.024000
+TIME(ms): 64.273000
+show result elapsed time: 
+TIME(ms): 6.899000
+TIME(ms): 81.045000
+TIME(ms): 65.124000
+show result elapsed time: 
+TIME(ms): 7.112000
+TIME(ms): 81.863000
+TIME(ms): 65.038000
+show result elapsed time: 
+TIME(ms): 7.556000
+[0m[ INFO] [1494059012.207510802]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059012.207577469]: cat[0m
+TIME(ms): 81.933000
+TIME(ms): 70.917000
+show result elapsed time: 
+TIME(ms): 7.443000
+TIME(ms): 87.983000
+TIME(ms): 84.004000
+show result elapsed time: 
+TIME(ms): 7.132000
+TIME(ms): 101.508000
+TIME(ms): 83.080000
+show result elapsed time: 
+TIME(ms): 6.323000
+TIME(ms): 99.982000
+TIME(ms): 68.798000
+show result elapsed time: 
+TIME(ms): 7.688000
+TIME(ms): 86.496000
+TIME(ms): 50.151000
+show result elapsed time: 
+TIME(ms): 5.741000
+TIME(ms): 65.671000
+TIME(ms): 59.559000
+show result elapsed time: 
+TIME(ms): 7.364000
+TIME(ms): 75.716000
+TIME(ms): 65.585000
+show result elapsed time: 
+TIME(ms): 7.437000
+TIME(ms): 82.596000
+TIME(ms): 62.425000
+show result elapsed time: 
+TIME(ms): 6.491000
+TIME(ms): 78.323000
+TIME(ms): 59.599000
+show result elapsed time: 
+TIME(ms): 5.700000
+TIME(ms): 75.156000
+TIME(ms): 69.989000
+show result elapsed time: 
+TIME(ms): 7.497000
+TIME(ms): 87.543000
+TIME(ms): 60.147000
+show result elapsed time: 
+TIME(ms): 5.908000
+[0m[ INFO] [1494059013.301379916]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059013.301437729]: aeroplane[0m
+TIME(ms): 75.252000
+TIME(ms): 74.050000
+show result elapsed time: 
+TIME(ms): 8.394000
+[0m[ INFO] [1494059013.419054656]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059013.420047468]: person[0m
+TIME(ms): 94.593000
+TIME(ms): 85.338000
+show result elapsed time: 
+TIME(ms): 6.807000
+TIME(ms): 103.421000
+TIME(ms): 72.137000
+show result elapsed time: 
+TIME(ms): 5.913000
+TIME(ms): 87.227000
+TIME(ms): 60.095000
+show result elapsed time: 
+TIME(ms): 6.286000
+TIME(ms): 77.550000
+TIME(ms): 58.454000
+show result elapsed time: 
+TIME(ms): 6.841000
+[0m[ INFO] [1494059013.801638770]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059013.801711010]: bird[0m
+TIME(ms): 75.746000
+TIME(ms): 59.008000
+show result elapsed time: 
+TIME(ms): 7.994000
+[0m[ INFO] [1494059013.904202729]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059013.904276426]: cat[0m
+TIME(ms): 77.609000
+TIME(ms): 59.048000
+show result elapsed time: 
+TIME(ms): 7.416000
+TIME(ms): 77.065000
+TIME(ms): 62.943000
+show result elapsed time: 
+TIME(ms): 8.758000
+[0m[ INFO] [1494059014.110276999]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059014.110351895]: bird[0m
+TIME(ms): 84.132000
+TIME(ms): 63.009000
+show result elapsed time: 
+TIME(ms): 8.917000
+[0m[ INFO] [1494059014.210397468]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059014.210470385]: dog[0m
+TIME(ms): 83.704000
+TIME(ms): 68.021000
+show result elapsed time: 
+TIME(ms): 8.316000
+[0m[ INFO] [1494059014.313889812]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059014.313948614]: person[0m
+TIME(ms): 86.839000
+TIME(ms): 81.609000
+show result elapsed time: 
+TIME(ms): 7.984000
+TIME(ms): 99.611000
+TIME(ms): 68.788000
+show result elapsed time: 
+TIME(ms): 7.013000
+TIME(ms): 86.583000
+TIME(ms): 52.853000
+show result elapsed time: 
+TIME(ms): 7.921000
+TIME(ms): 70.482000
+TIME(ms): 69.537000
+show result elapsed time: 
+TIME(ms): 8.433000
+TIME(ms): 88.682000
+TIME(ms): 67.768000
+show result elapsed time: 
+TIME(ms): 8.956000
+[0m[ INFO] [1494059014.815663405]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059014.815751166]: cat[0m
+TIME(ms): 89.643000
+TIME(ms): 74.108000
+show result elapsed time: 
+TIME(ms): 7.276000
+TIME(ms): 93.160000
+TIME(ms): 65.551000
+show result elapsed time: 
+TIME(ms): 7.159000
+TIME(ms): 83.039000
+TIME(ms): 78.576000
+show result elapsed time: 
+TIME(ms): 7.059000
+TIME(ms): 96.119000
+TIME(ms): 72.212000
+show result elapsed time: 
+TIME(ms): 5.996000
+TIME(ms): 88.763000
+TIME(ms): 71.513000
+show result elapsed time: 
+TIME(ms): 6.667000
+TIME(ms): 88.726000
+TIME(ms): 50.804000
+show result elapsed time: 
+TIME(ms): 6.808000
+TIME(ms): 67.164000
+TIME(ms): 62.622000
+show result elapsed time: 
+TIME(ms): 7.460000
+TIME(ms): 80.393000
+TIME(ms): 61.193000
+show result elapsed time: 
+TIME(ms): 6.866000
+TIME(ms): 77.367000
+TIME(ms): 60.751000
+show result elapsed time: 
+TIME(ms): 6.632000
+TIME(ms): 76.982000
+TIME(ms): 60.739000
+show result elapsed time: 
+TIME(ms): 6.213000
+TIME(ms): 76.052000
+TIME(ms): 61.505000
+show result elapsed time: 
+TIME(ms): 6.689000
+TIME(ms): 78.176000
+TIME(ms): 59.176000
+show result elapsed time: 
+TIME(ms): 5.914000
+TIME(ms): 75.062000
+TIME(ms): 62.439000
+show result elapsed time: 
+TIME(ms): 7.781000
+[0m[ INFO] [1494059016.106160957]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059016.106234290]: person[0m
+TIME(ms): 79.995000
+TIME(ms): 50.461000
+show result elapsed time: 
+TIME(ms): 7.360000
+TIME(ms): 68.528000
+TIME(ms): 74.572000
+show result elapsed time: 
+TIME(ms): 8.228000
+TIME(ms): 94.562000
+TIME(ms): 78.787000
+show result elapsed time: 
+TIME(ms): 6.491000
+[0m[ INFO] [1494059016.426967415]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059016.427747467]: cat[0m
+TIME(ms): 97.507000
+TIME(ms): 55.091000
+show result elapsed time: 
+TIME(ms): 6.952000
+TIME(ms): 71.364000
+TIME(ms): 57.936000
+show result elapsed time: 
+TIME(ms): 6.234000
+TIME(ms): 73.650000
+TIME(ms): 59.571000
+show result elapsed time: 
+TIME(ms): 6.129000
+TIME(ms): 75.333000
+TIME(ms): 82.846000
+show result elapsed time: 
+TIME(ms): 8.767000
+TIME(ms): 100.971000
+TIME(ms): 67.983000
+show result elapsed time: 
+TIME(ms): 7.008000
+TIME(ms): 85.052000
+TIME(ms): 69.293000
+show result elapsed time: 
+TIME(ms): 7.686000
+TIME(ms): 88.129000
+TIME(ms): 69.283000
+show result elapsed time: 
+TIME(ms): 7.286000
+TIME(ms): 86.644000
+TIME(ms): 58.546000
+show result elapsed time: 
+TIME(ms): 6.973000
+TIME(ms): 74.703000
+TIME(ms): 65.504000
+show result elapsed time: 
+TIME(ms): 8.870000
+[0m[ INFO] [1494059017.309881946]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059017.309956113]: person[0m
+TIME(ms): 84.694000
+TIME(ms): 67.466000
+show result elapsed time: 
+TIME(ms): 10.205000
+TIME(ms): 88.430000
+TIME(ms): 60.248000
+show result elapsed time: 
+TIME(ms): 6.792000
+TIME(ms): 77.317000
+TIME(ms): 67.392000
+show result elapsed time: 
+TIME(ms): 7.509000
+TIME(ms): 87.729000
+TIME(ms): 73.949000
+show result elapsed time: 
+TIME(ms): 6.597000
+TIME(ms): 91.418000
+TIME(ms): 66.265000
+show result elapsed time: 
+TIME(ms): 7.693000
+TIME(ms): 84.201000
+TIME(ms): 60.958000
+show result elapsed time: 
+TIME(ms): 8.209000
+[0m[ INFO] [1494059017.906416842]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059017.906955279]: cat[0m
+TIME(ms): 81.445000
+TIME(ms): 85.855000
+show result elapsed time: 
+TIME(ms): 7.404000
+TIME(ms): 103.857000
+TIME(ms): 72.192000
+show result elapsed time: 
+TIME(ms): 6.981000
+TIME(ms): 88.878000
+TIME(ms): 50.456000
+show result elapsed time: 
+TIME(ms): 6.849000
+TIME(ms): 67.743000
+TIME(ms): 65.685000
+show result elapsed time: 
+TIME(ms): 8.368000
+TIME(ms): 84.258000
+TIME(ms): 74.668000
+show result elapsed time: 
+TIME(ms): 9.806000
+TIME(ms): 97.726000
+TIME(ms): 60.891000
+show result elapsed time: 
+TIME(ms): 7.705000
+TIME(ms): 80.429000
+TIME(ms): 68.112000
+show result elapsed time: 
+TIME(ms): 7.737000
+TIME(ms): 86.639000
+TIME(ms): 83.997000
+show result elapsed time: 
+TIME(ms): 7.544000
+TIME(ms): 102.265000
+TIME(ms): 73.954000
+show result elapsed time: 
+TIME(ms): 6.435000
+[0m[ INFO] [1494059018.825612727]: HAHAHAHAHAHAAH[0m
+[0m[ INFO] [1494059018.825997831]: person[0m
+TIME(ms): 91.293000
+TIME(ms): 51.930000
+show result elapsed time: 
+TIME(ms): 6.533000
+TIME(ms): 67.817000
+TIME(ms): 59.675000
+show result elapsed time: 
+TIME(ms): 6.665000
+TIME(ms): 76.122000
+TIME(ms): 56.433000
+show result elapsed time: 
+TIME(ms): 9.638000
+TIME(ms): 77.551000
+TIME(ms): 53.012000
+show result elapsed time: 
+TIME(ms): 7.729000
+TIME(ms): 70.688000
+TIME(ms): 57.423000
+show result elapsed time: 
+TIME(ms): 8.421000
+TIME(ms): 76.754000
+TIME(ms): 53.604000
+show result elapsed time: 
+TIME(ms): 7.343000
+TIME(ms): 71.046000
+TIME(ms): 69.977000
+show result elapsed time: 
+TIME(ms): 7.650000
+TIME(ms): 87.777000
+TIME(ms): 68.352000
+show result elapsed time: 
+TIME(ms): 8.420000
+TIME(ms): 87.549000
+TIME(ms): 82.023000
+show result elapsed time: 
+TIME(ms): 8.963000
+TIME(ms): 101.317000
+TIME(ms): 74.207000
+show result elapsed time: 
+TIME(ms): 7.268000
+TIME(ms): 91.113000
+TIME(ms): 69.228000
+show result elapsed time: 
+TIME(ms): 7.551000
+TIME(ms): 90.818000
+TIME(ms): 91.742000
+show result elapsed time: 
+TIME(ms): 8.722000
+TIME(ms): 112.927000
+TIME(ms): 78.831000
+show result elapsed time: 
+TIME(ms): 7.652000
+TIME(ms): 97.506000
+TIME(ms): 73.684000
+show result elapsed time: 
+TIME(ms): 7.633000
+TIME(ms): 91.074000
+TIME(ms): 46.498000
+show result elapsed time: 
+TIME(ms): 7.005000
+TIME(ms): 62.358000
+TIME(ms): 47.705000
+show result elapsed time: 
+TIME(ms): 6.408000
+TIME(ms): 65.475000
+TIME(ms): 81.208000
+show result elapsed time: 
+TIME(ms): 9.590000
+TIME(ms): 109.559000
+TIME(ms): 72.537000
+show result elapsed time: 
+TIME(ms): 8.263000
+TIME(ms): 92.320000
+TIME(ms): 51.922000
+show result elapsed time: 
+TIME(ms): 7.682000
+TIME(ms): 68.789000
+TIME(ms): 67.097000
+show result elapsed time: 
+TIME(ms): 8.346000
+TIME(ms): 86.452000
+TIME(ms): 70.687000
+show result elapsed time: 
+TIME(ms): 8.828000
+TIME(ms): 89.345000
+TIME(ms): 73.191000
+show result elapsed time: 
+TIME(ms): 7.266000
+TIME(ms): 91.224000
+TIME(ms): 80.967000
+show result elapsed time: 
+TIME(ms): 7.909000
+TIME(ms): 99.454000
+TIME(ms): 74.154000
+show result elapsed time: 
+TIME(ms): 8.161000
+TIME(ms): 92.579000
+TIME(ms): 73.154000
+show result elapsed time: 
+TIME(ms): 7.551000
+TIME(ms): 90.762000
+TIME(ms): 84.813000
+show result elapsed time: 
+TIME(ms): 8.559000
+TIME(ms): 104.862000
+TIME(ms): 75.447000
+show result elapsed time: 
+TIME(ms): 7.072000
+TIME(ms): 93.565000
+TIME(ms): 78.092000
+show result elapsed time: 
+TIME(ms): 7.915000
+TIME(ms): 97.778000
+TIME(ms): 49.418000
+show result elapsed time: 
+TIME(ms): 6.715000
+TIME(ms): 66.065000
+TIME(ms): 48.784000
+show result elapsed time: 
+TIME(ms): 6.315000
+TIME(ms): 66.898000
+TIME(ms): 94.515000
+show result elapsed time: 
+TIME(ms): 9.975000
+TIME(ms): 119.215000
+TIME(ms

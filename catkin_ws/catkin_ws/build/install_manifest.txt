@@ -1,0 +1,14 @@
+/home/ubuntu/catkin_ws/install/_setup_util.py
+/home/ubuntu/catkin_ws/install/env.sh
+/home/ubuntu/catkin_ws/install/setup.bash
+/home/ubuntu/catkin_ws/install/setup.sh
+/home/ubuntu/catkin_ws/install/setup.zsh
+/home/ubuntu/catkin_ws/install/.rosinstall
+/home/ubuntu/catkin_ws/install/lib/pkgconfig/cvcar.pc
+/home/ubuntu/catkin_ws/install/share/cvcar/cmake/cvcarConfig.cmake
+/home/ubuntu/catkin_ws/install/share/cvcar/cmake/cvcarConfig-version.cmake
+/home/ubuntu/catkin_ws/install/share/cvcar/package.xml
+/home/ubuntu/catkin_ws/install/lib/pkgconfig/ros_caffe.pc
+/home/ubuntu/catkin_ws/install/share/ros_caffe/cmake/ros_caffeConfig.cmake
+/home/ubuntu/catkin_ws/install/share/ros_caffe/cmake/ros_caffeConfig-version.cmake
+/home/ubuntu/catkin_ws/install/share/ros_caffe/package.xml
